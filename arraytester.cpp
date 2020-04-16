@@ -1,3 +1,5 @@
+//Copyright, Brian Goodson
+
 #include <iostream>
 
 using namespace std;
