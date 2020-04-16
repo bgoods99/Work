@@ -1,4 +1,4 @@
-//Copyright, Brian Goodson
+//Brian Goodson
 
 #include <iostream>
 
